@@ -2,7 +2,7 @@
 <div align="center">
   <h1>𝕸𝖊𝖙𝖆𝖑 𝕭𝖆𝖓𝖉𝖘 🇧​​​​​🇾​​​​​ 🇳​​​​​🇦​​​​​🇹​​​​​🇮​​​​​🇴​​​​​🇳​​​​​</h1>
   Projeto para a disciplina de Introdução à Análise de Dados<br /> na especialização em Visão Computacional<br />pelo <a href="https://cin.ufpe.br/">CIn-UFPE</a><br /><br />
-  <small>Professor Luciano Barbosa</small><br /><br />
+  <small>Professor <a target="_blank" href="https://github.com/ProfLuciano">Luciano Barbosa</a></small><br /><br />
   🤘 Arianne Macena 🤘<br /><a href="https://github.com/annemacena">[@annemacena]</a> - <a href="mailto:asm7@cin.ufpe.br">asm7@cin.ufpe.br</a> <br /><br />
   🤘 Otávio Kamel 🤘<br /><a href="https://github.com/otaviokamel">[@otaviokamel]</a> - <a href="mailto:oackb@cin.ufpe.br">oackb@cin.ufpe.br</a>
 </div>
