@@ -17,4 +17,4 @@
 # Observações
 
 - Para melhor visualização do _notebook_, baixe o arquivo `.ipynb` e visualize localmente (as dependências pro [conda](https://github.com/otaviokamel/projeto_introducao_analise_de_dados/blob/main/requirements_conda.txt) OU [pip](https://github.com/otaviokamel/projeto_introducao_analise_de_dados/blob/main/requirements_pip.txt) estão neste repositório) OU veja o projeto _online_ pelo [Google Colab](https://colab.research.google.com/drive/123OunGaQaxAUq4PPm0ArWlbsIdW7bFgk?usp=sharing)
-- O _dataset_ utilizado para este projeto foi o [Metal Bands by Nation](https://www.kaggle.com/mrpantherson/metal-by-nation).
+- O _dataset_ utilizado para este projeto foi o [Metal Bands by Nation](https://www.kaggle.com/mrpantherson/metal-by-nation)
