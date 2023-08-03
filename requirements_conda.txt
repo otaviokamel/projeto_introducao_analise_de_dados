@@ -135,4 +135,4 @@ xerces-c=3.2.3=ha925a31_0
 xz=5.2.5=h62dcd97_0
 zeromq=4.3.4=h0e60522_1
 zlib=1.2.11=h62dcd97_4
-zstd=1.4.9=h19a0ad4_0
+zstd>=1.5.4.0
